@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "userName": "lucky",
+      "mailid": "lucky@gmail.com",
+      "password": "12345",
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "userName": "venky",
+      "mailid": "venky@gmail.com",
+      "password": "12345",
+      "gender": "Male",
+      "id": 2
+    },
+    {
+      "userName": "venky",
+      "mailid": "venky@gmail.com",
+      "password": "12345",
+      "gender": "Male",
+      "id": 3
+    },
+    {
+      "userName": "venky",
+      "mailid": "venky@gmail.com",
+      "password": "12345",
+      "gender": "Male",
+      "id": 4
+    }
+  ]
+}

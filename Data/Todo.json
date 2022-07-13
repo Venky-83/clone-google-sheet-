@@ -1,0 +1,58 @@
+{
+  "task": [
+    {
+      "userName": "lucky",
+      "taskName": "     react                   ",
+      "taskDeatail": "class",
+      "startDate": "2022-06-21",
+      "endDate": "0022-07-22",
+      "status": "Completed",
+      "id": 1
+    },
+    {
+      "userName": "lucky",
+      "taskName": "dom",
+      "taskDeatail": "class",
+      "startDate": "2022-06-30",
+      "endDate": "2022-07-04",
+      "status": "Completed",
+      "id": 2
+    },
+    {
+      "userName": "lucky",
+      "taskName": "dom",
+      "taskDeatail": "class",
+      "startDate": "2022-06-30",
+      "endDate": "2022-07-10",
+      "status": "Ongoing",
+      "id": 3
+    },
+    {
+      "userName": "lucky",
+      "taskName": "dom",
+      "taskDeatail": "class",
+      "startDate": "2022-07-09",
+      "endDate": "2022-07-10",
+      "status": "Pending",
+      "id": 4
+    },
+    {
+      "userName": "lucky",
+      "taskName": "sql",
+      "taskDeatail": "class",
+      "startDate": "2022-07-09",
+      "endDate": "2022-07-10",
+      "status": "Pending",
+      "id": 5
+    },
+    {
+      "userName": "niranjan",
+      "taskName": "react",
+      "taskDeatil": "second project",
+      "startDate": "2022-07-02",
+      "endDate": "2022-07-09",
+      "status": "Completed",
+      "id": 6
+    }
+  ]
+}
